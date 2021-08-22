@@ -1,0 +1,79 @@
+==========
+Module - 30 Notes:
+------------------
+
+Recap Some JS Core Concept
+-------------------------->>>
+1. Conditions
+----------------
+if()
+else if
+swith case()
+2. Array[]
+---------
+index
+lenth
+push()
+pop()
+unshift()
+shift()
+indexOf()
+includes()
+
+3. Loops
+---------
+while lop
+for Loop
+for of Loop
+
+4. function()
+------------
+declare function()
+
+5. object{}
+------------
+key/property
+value
+
+Recap DOM Manipulation & Event handler
+-------------------------------------->>>
+0. document()
+1. getElementById()
+2. getElementsByClassName()
+3. getElementsByTagName()
+5. addEventListner()
+6. style using js DOM
+7. onclick="";
+8. createElement()
+9. classList.add()
+10. classList.remove()
+11. innerHTML
+12. innerText
+13. appendChild()
+
+Entering in ES-6
+=============>>>
+
+1. function default parameter
+--------------------------
+2. Template string
+---------------
+    a. single quote
+    b. double quote
+    c. back quote/ back tic
+
+back quote is used to write multi line string variable and we can right any javascript code/expression iside it just using ${} symbole.
+
+3. arrow function()
+----------------
+const funName = (parameters) => return statement;
+
+4. spread operator, array max, copy arrays
+----------------------------------
+spread operator = ...
+
+It used to get all elements value from an array.
+
+
+
+
